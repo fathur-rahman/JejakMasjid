@@ -2,7 +2,7 @@ Assalamu'alaikum
 
 # JejakMasjid
 Android Mobile App for recording the Masjids you have visited. <br>
-Data stored in local database, fetched using PHP API. <br>
+Data stored in local database, fetched using Retrofit to a PHP API. <br>
 
 <b> Quick GIF Preview: </b> <br>
 ![JejakMasjid Preview](https://github.com/fathur-rahman/JejakMasjid/blob/master/JejakMasjd%20gif/JejakMasjid_1.gif)

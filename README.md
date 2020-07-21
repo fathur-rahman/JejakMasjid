@@ -1,7 +1,7 @@
 Assalamu'alaikum
 
 # JejakMasjid
-an Android Mobile App for recording the Masjids you have visited. <br>
+Android Mobile App for recording the Masjids you have visited. <br>
 Data stored in local database, fetched using PHP API. <br>
 
 <b> Quick GIF Preview: </b> <br>

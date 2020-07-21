@@ -1,9 +1,9 @@
 Assalamu'alaikum
 
 # JejakMasjid
-App for recording the Masjids you have visited.
-
-*Quick GIF Preview*
+Android Mobile App for recording the Masjids you have visited. <br>
+Built with Android Studio by Fathur Rahman Haikal, in July 2020 <br>
+*Quick GIF Preview* <br>
 ![JejakMasjid Preview](https://github.com/fathur-rahman/JejakMasjid/blob/master/JejakMasjd%20gif/JejakMasjid_1.gif)
 
 *Complete Preview*

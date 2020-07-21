@@ -7,7 +7,7 @@ Data stored in local database, fetched using PHP API. <br>
 <b> Quick GIF Preview: </b> <br>
 ![JejakMasjid Preview](https://github.com/fathur-rahman/JejakMasjid/blob/master/JejakMasjd%20gif/JejakMasjid_1.gif)
 
-<b> Complete Preview: </b> <br>
+<b> Complete Walkthrough: </b> <br>
 https://www.youtube.com/watch?v=-PWS2XZRGlc
 <br>
 
